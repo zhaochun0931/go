@@ -13,3 +13,12 @@ export PATH=$PATH:/root/go/bin
 
 go version
 
+
+
+
+
+
+# go run hello.go
+warning: GOPATH set to GOROOT (/root/go) has no effect
+hello, world
+#
