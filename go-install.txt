@@ -1,0 +1,15 @@
+wget https://go.dev/dl/go1.22.0.linux-amd64.tar.gz
+
+tar -xzvf go1.22.0.linux-amd64.tar.gz
+
+
+
+
+vi ~/.bash_profile
+
+export PATH=$PATH:/root/go/bin
+
+
+
+go version
+
